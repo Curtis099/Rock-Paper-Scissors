@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="player_1">PLAYER 1</string>
+    <string name="button">TAP</string>
+    <string name="tap">TAP</string>
+    <string name="player_2">PLAYER 2</string>
+</resources>
